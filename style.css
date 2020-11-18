@@ -1,0 +1,54 @@
+html{
+	background-color:#52B2BF;
+}
+body{
+	text-align:left;
+}
+h1{
+	text-align:center;
+	font-size:60px;
+}
+h2{
+	text-align:center;
+	font-size:30px;
+}
+p{
+	font-size:20px;
+}
+ul{
+	font-size:20px;
+}
+li{
+	font-size:20px;
+}
+.menutable{
+	border-spacing:15px;
+}
+
+.menucell{
+	background-color:#f0f0f0;
+	border:2px solid blue;
+	color:red;
+	font-size:22px;
+	font-family:"Times New Roman", Times, serif;
+	border-collapse: separate;
+  	border-spacing: 0 15px;
+}
+a{
+	text-align:center;
+	padding:0;
+}
+.imageright{
+	float:right;margin-left:20px
+}
+.imageleft{
+	float:left;margin-right:20px
+}
+.textright{
+	text-align:right;
+}
+.italic{
+	font-style:italic;
+	font-size:30px;
+	text-align:center;
+}
